@@ -120,7 +120,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Side Header List](https://github.com/renefloor/side_header_list_view) [50★] - Listview with sticky headers by [Rene Floor](https://github.com/renefloor).
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [77★] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [35★] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
-- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [24★] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 
 ### Image
 
