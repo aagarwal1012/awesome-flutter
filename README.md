@@ -129,7 +129,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [55★] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [46★] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).
 - [SVG](https://github.com/dnfield/flutter_svg) [78★] - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield).
-- [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [24★] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
 
 ### Map
 
