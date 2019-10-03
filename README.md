@@ -102,7 +102,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter Team.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) [136★] - Demonstration by [Posse](http://goposse.com).
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [794★] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
 
 ### UI
 
